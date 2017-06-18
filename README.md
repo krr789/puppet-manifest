@@ -1,0 +1,2 @@
+# puppet-manifest
+my practice 
